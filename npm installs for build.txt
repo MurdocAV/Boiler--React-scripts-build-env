@@ -1,0 +1,1 @@
+npm i && npm i react-router-dom && npm i redux && npm i react-redux && npm i three && npm i @material-ui/core && npm i @material-ui/icons && npm i redux-devtools && npm i redux-devtools-extension && npm i react-scripts && npm install webpack --save
